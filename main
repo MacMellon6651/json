@@ -109,7 +109,7 @@
     "Gridlock": { "name": "F90", "scope": "2.5x", "muzzle": "compensator", "grip": "angled grip" },
     "Grim": { "name": "552 COMMANDO", "scope": "2.5x", "muzzle": "compensator", "grip": "angled grip" },
     "Hibana": { "name": "TYPE-89", "scope": "2.5x", "muzzle": "compensator", "grip": "angled grip" },
-    "Iana": { "name": "ARX200", "scope": "2.5x", "muzzle": "compensator", "grip": "angled grip" },
+    "Iana": { "name": "G36", "scope": "2.5x", "muzzle": "flashhider", "grip": "angled grip" },
     "IQ": { "name": "552 COMMANDO", "scope": "2.5x", "muzzle": "compensator", "grip": "angled grip" },
     "Jager": { "name": "416-C CARBINE", "scope": "x1", "muzzle": "compensator", "grip": "angled grip" },
     "Jackal": { "name": "C7E", "scope": "2.5x", "muzzle": "compensator", "grip": "angled grip" },
